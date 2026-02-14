@@ -1,3 +1,4 @@
+package com.example;
 public class Calculator {
     
     public int add(int a, int b) {
@@ -11,3 +12,4 @@ public class Calculator {
         return (double) a / b;
     }
 }
+
