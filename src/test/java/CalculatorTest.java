@@ -1,3 +1,4 @@
+package com.example;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
@@ -28,4 +29,5 @@ class CalculatorTest {
             calculator.divide(10, 0);
         });
     }
+
 }
